@@ -6,6 +6,9 @@
 
 ### Server
 
+* Add trailing / to request
+* Add Cors
+* Create express app
 * Create Firebase Functions
 * Init Firebase
 * Add express
